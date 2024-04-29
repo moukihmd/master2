@@ -8,3 +8,8 @@ L'erreur que vous avez rencontrée concerne le dépassement de la mémoire RAM d
     **Erreur de dépassement de la région .bss'**: La section .bss' contient les variables non initialisées de votre programme. L'erreur indique qu'elle ne rentre pas dans la région de la mémoire RAM.
 
     Dépassement de la régi et de vérifier si l'erreur persiste.
+L'erreur que vous avez rencontrée concerne le dépassement de la mémoire RAM disponible sur votre microcontrôleur STM32F103RBTX. Voici une explication de l'erreur et des étapes que vous pouvez suivre pour la résoudre :
+
+    **Erreur de dépassement de la région .bss'**: La section .bss' contient les variables non initialisées de votre programme. L'erreur indique qu'elle ne rentre pas dans la région de la mémoire RAM.
+
+    Dépassement de la régi et de vérifier si l'erreur persiste.
