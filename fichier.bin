@@ -12,4 +12,4 @@ L'erreur que vous avez rencontrée concerne le dépassement de la mémoire RAM d
 
     **Erreur de dépassement de la région .bss'**: La section .bss' contient les variables non initialisées de votre programme. L'erreur indique qu'elle ne rentre pas dans la région de la mémoire RAM.
 
-    Dépassement de la régi et de vérifier si l'erreur persiste.
+    
